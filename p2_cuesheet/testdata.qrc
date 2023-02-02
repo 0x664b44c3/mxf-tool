@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="test.xml">0002I4.XML</file>
+        <file>sitehead.html</file>
+    </qresource>
+</RCC>
